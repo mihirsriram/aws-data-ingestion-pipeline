@@ -1,10 +1,6 @@
 # aws-data-ingestion-pipeline
 Real-time Stock Data-processing using Apache Kafka, Cassandra and AWS service (S3, Glue, Athena) to gain insights
 
-
-Here's a README file you can use for the project depicted in the image:
-
-```
 # Stock Market Data Ingestion and Processing Pipeline
 
 This repository showcases a real-time stock market data processing pipeline built using AWS services. 
